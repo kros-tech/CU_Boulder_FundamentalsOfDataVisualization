@@ -6,7 +6,7 @@ This final project demonstrates my ability to design and execute a structured pr
 The *Fundamentals of Visualization Final Project* document provides a comprehensive overview of the project, including:
 - A summary of the dataset
 - Defined goals and analytical tasks
-- Key design decisions and visualization elements
+- Key design decisions and visualization elements (see the following for additional details - [Visualization Design Prototyping - Five Design Sheets](https://github.com/kros-tech/CU_Boulder_FundamentalsOfDataVisualization/blob/main/Visualization%20Design%20Prototyping%20-%20Five%20Design%20Sheets.docx) )
 - Evaluation of the visualization approach
 - Findings, including what worked well and recommendations for future improvements
     
